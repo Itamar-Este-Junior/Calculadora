@@ -1,1 +1,1 @@
-# Calculadora
+# Calculadora - simula uma calculadora financeira
